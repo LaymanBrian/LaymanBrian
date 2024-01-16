@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaymanBrian
-- 👀 I’m interested in c# and dotnet
-- 🌱 I’m currently learning asp.net core mvc
-- 💞️ I’m looking to collaborate on c#
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me asd1366464124@gmail.com
 
 <!---
